@@ -15,8 +15,8 @@ I'm a young programmer from Poland. I'm interested in low-level programming, but
 
 ## GitHub stats
 <div align="center">
-    <img src="https://github-stats-extended.vercel.app/api?username=realkrotek&theme=gruvbox" alt="GitHub Stats" />
-    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=realkrotek&langs_count=4&theme=gruvbox" alt="Language Stats"/>
+    <img src="https://github-stats-extended.vercel.app/api?username=krotekman&theme=gruvbox" alt="GitHub Stats" />
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=krotekman&langs_count=4&theme=gruvbox" alt="Language Stats"/>
 </div>
 
 ## Competitive Programming
