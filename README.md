@@ -4,7 +4,7 @@ I'm a young programmer from Poland. I'm interested in low-level programming, but
 
 ## Languages and Tools
 <div>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-orginal.svg" width="30" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="30" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="30"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" width="30"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cmake/cmake-original.svg" width="30"/>
