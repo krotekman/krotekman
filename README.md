@@ -10,6 +10,9 @@ I'm a young programmer from Poland. I'm interested in low-level programming, but
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cmake/cmake-original.svg" width="30"/>
 </div>
 
+## Projects I contributted to:
+ - (ReactOS)[https://github.com/reactos/reactos/pulls?q=is%3Apr+state%3Aclosed+author%3Arealkrotek]
+
 ## Github stats
 <div align="center">
     <img src="https://github-stats-extended.vercel.app/api?username=realkrotek&theme=gruvbox" alt="GitHub Stats" />
