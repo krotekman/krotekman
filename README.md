@@ -17,5 +17,6 @@ I'm a young programmer from Poland. I'm interested in low-level programming, but
 </div>
 
 ## Competetive Programming
-<img src="https://codeforces-readme-stats.vercel.app/api/card?username=cyberword" alt="CF stats" />
-
+<div align="center">
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=cyberword&theme=gruvbox" alt="CF stats" />
+</div>
