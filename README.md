@@ -11,7 +11,7 @@ I'm a young programmer from Poland. I'm interested in low-level programming, but
 </div>
 
 ## Projects I contributted to:
- - (ReactOS)[https://github.com/reactos/reactos/pulls?q=is%3Apr+state%3Aclosed+author%3Arealkrotek]
+ - [ReactOS](https://github.com/reactos/reactos/pulls?q=is%3Apr+state%3Aclosed+author%3Arealkrotek)
 
 ## Github stats
 <div align="center">
